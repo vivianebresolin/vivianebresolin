@@ -1,8 +1,7 @@
 ## Hi there 👋, I'm Viviane Bresolin! 
 
-- 💻 Front-end developer;
-- 🏢 Currently working at IBM;
-- 📚 Presently learning React Native;
+- 💻 Application developer (front-end and mobile);
+- 📚 Currently taking the course Mobile Application Development at Fanshawe College (post-grad program);
 - 🍫 I love chocolate!
 - 📖 I'm passionate about learning other languages. I'm currently studying English and French.
 
@@ -27,11 +26,7 @@
   <img align="center" alt="React" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="SASS" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" alt="Java" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Angular" height="30" width="40" src="https://angular.io/assets/images/logos/angular/angular.svg">
-  <img align="center" alt="Bootstrap" height="27" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
-  <img align="center" alt="NodeJs" height="70" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
 </div>
   
 <br />
