@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Viviane Bresolin! 
 
 - 💻 Application developer (front-end and mobile);
-- 📚 Currently taking the course Mobile Application Development at Fanshawe College (post-grad program);
+- 📚 Currently taking the Mobile Application Development post-graduate course at Fanshawe College;
 - 🍫 I love chocolate!
 - 📖 I'm passionate about learning other languages. I'm currently studying English and French.
 
